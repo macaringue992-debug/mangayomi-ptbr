@@ -1,0 +1,22 @@
+{
+  "name": "Mangayomi PT-BR",
+  "author": "Laercio",
+  "extensions": [
+    {
+      "name": "MediocreToons (PT-BR)",
+      "lang": "pt",
+      "type": "manga",
+      "version": 1,
+      "url": "https://macaringue992-debug.github.io/mangayomi-ptbr/extensions/pt/mediocretoons/source.js",
+      "iconUrl": "https://macaringue992-debug.github.io/mangayomi-ptbr/extensions/pt/mediocretoons/icon.png"
+    },
+    {
+      "name": "SussyToons (PT-BR)",
+      "lang": "pt",
+      "type": "manga",
+      "version": 1,
+      "url": "https://macaringue992-debug.github.io/mangayomi-ptbr/extensions/pt/sussytoons/source.js",
+      "iconUrl": "https://macaringue992-debug.github.io/mangayomi-ptbr/extensions/pt/sussytoons/icon.png"
+    }
+  ]
+}
